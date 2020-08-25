@@ -1,0 +1,75 @@
+.body{
+    margin:0;
+    padding:0;
+    background:url(test.jpg);
+    background-size: 1100000;
+    background-position: center;
+    font-family:sans-serif;
+
+}
+.wc{
+    text-align: center;
+    text-decoration: rgb(165, 20, 20);
+}
+.alg{
+    text-align: center;
+    text-decoration:  rgb(165, 20, 20);
+    text-size-adjust: 10px;
+}
+.signin
+{
+    background: rgba(44,62,80,0.7);
+    border-top-left-radius:5%;
+    border-bottom-right-radius:5%;
+    border-bottom-left-radius:5%;
+    border-top-right-radius:5%;
+    padding: 40px;
+    width: 250px;
+    margin: auto;
+    margin-top: 9px;
+    height: 750px;
+    margin-left: 180x;
+    
+}
+.loginbox input[type="text"], input[type="number"]
+{
+   border:none;
+   border-bottom: 1px solid rgb(0, 10, 3);
+   background: transparent;
+   outline:none;
+   height: 70px;
+   color: rgb(241, 247, 247);
+   font-size: 16px;
+}
+.loginbox input[type="submit"]
+{
+    border:none;
+    outline:none;
+    height:40px;
+    background:#fffdfd;
+    color:rgb(14, 1, 1);
+    font-size: 18px;
+    border-radius: 20px;
+}
+.loginbox input[type="submit"]:hover
+{
+    cursor:pointer;
+    background: #000802;
+    color:white;
+}
+.alg a
+{
+    border:none;
+    outline:none;
+    height:100px;
+    background:#fffdfd;
+    color:rgb(14, 1, 1);
+    font-size: 35px;
+    border-radius: 10px;
+}
+.alg a:hover
+{
+    cursor:pointer;
+    background: #000802;
+    color:white;
+}
